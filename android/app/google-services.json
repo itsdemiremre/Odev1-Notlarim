@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450220869258",
+    "firebase_url": "https://flutter-akademi-924c2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-akademi-924c2",
+    "storage_bucket": "flutter-akademi-924c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450220869258:android:dd1d827ce7494b5321cf73",
+        "android_client_info": {
+          "package_name": "com.example.student_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450220869258-6iro752npks31lcg3kg82feqdl9on8e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyeZZmejzx6eV4oSRm-Z4oiZ3-nw1EBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450220869258-6iro752npks31lcg3kg82feqdl9on8e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
